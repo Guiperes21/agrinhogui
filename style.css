@@ -1,0 +1,43 @@
+
+:root {
+    --text-color: #020a2ee7;
+    --background-color: #d6d5d5;
+}
+
+/* código omitido */
+/* código omitido */
+
+/* Corpo da página */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+h2{
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 30px;
+}
+
+img {
+    text-align: center;
+    max-width: 70%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+}
+
+/* código omitido */
